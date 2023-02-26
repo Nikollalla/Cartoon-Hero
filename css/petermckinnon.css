@@ -1,0 +1,51 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: black;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+h1{
+	font-family: 'Parisienne', cursive;
+	opacity: .7;
+	margin-left: 50px;
+}
+
+header h1{
+	color: white;
+}
+
+h2{
+	font-family: 'Darker Grotesque', sans-serif;
+	font-size: 80px;
+	margin-left: 50px;
+	margin-top: 130px;
+}
+
+p{
+	font-family: 'Darker Grotesque', sans-serif;
+	font-size: 28px;
+	margin-top: -29px;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-style: italic;
+}
+
+footer{
+	background-color: #F2F4F4;
+	text-align: center;
+	color: black;
+	padding: 50px;
+	padding-bottom: 295px;
+    margin-top: 580px;
+	
+}
+
+footer p{
+    font-style: normal;
+	font-size: 90px;
+	margin-top: 10px;
+}
